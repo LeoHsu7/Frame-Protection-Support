@@ -16,6 +16,7 @@
 		<Item Name="Protection Settings.vi" Type="VI" URL="../SubVIs/Protection Settings.vi"/>
 	</Item>
 	<Item Name="RTM Support" Type="Folder">
+		<Item Name="Auto Config Core.vi" Type="VI" URL="../SubVIs/Auto Config Core.vi"/>
 		<Item Name="Select Channels and Update Properties.vi" Type="VI" URL="../SubVIs/Select Channels and Update Properties.vi"/>
 		<Item Name="Switch Counter Signal.vi" Type="VI" URL="../SubVIs/Switch Counter Signal.vi"/>
 		<Item Name="Switch Protection Signal.vi" Type="VI" URL="../SubVIs/Switch Protection Signal.vi"/>
@@ -29,10 +30,10 @@
 		<Item Name="Initialize TreeBrowserWF.vi" Type="VI" URL="../SubVIs/Initialize TreeBrowserWF.vi"/>
 		<Item Name="Make Counter Signal If Match.vi" Type="VI" URL="../SubVIs/Make Counter Signal If Match.vi"/>
 		<Item Name="Matching String In Node Name.vi" Type="VI" URL="../SubVIs/Matching String In Node Name.vi"/>
-		<Item Name="Parse Matched Signals via Name.vi" Type="VI" URL="../SubVIs/Parse Matched Signals via Name.vi"/>
 		<Item Name="Recursion Got Nodes.vi" Type="VI" URL="../SubVIs/Recursion Got Nodes.vi"/>
 		<Item Name="Sort Signals By Frame Order.vi" Type="VI" URL="../SubVIs/Sort Signals By Frame Order.vi"/>
 		<Item Name="Switch Counter Signal For Auto.vi" Type="VI" URL="../SubVIs/Switch Counter Signal For Auto.vi"/>
+		<Item Name="Switch Protection Signal For Auto.vi" Type="VI" URL="../SubVIs/Switch Protection Signal For Auto.vi"/>
 		<Item Name="Update Channel Monitor Listbox.vi" Type="VI" URL="../SubVIs/Update Channel Monitor Listbox.vi"/>
 	</Item>
 	<Item Name="Types" Type="Folder">
