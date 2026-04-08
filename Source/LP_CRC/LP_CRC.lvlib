@@ -22,5 +22,6 @@
 	<Item Name="CRC_Calc.vi" Type="VI" URL="../CRC_Calc.vi"/>
 	<Item Name="CRC_Key_Map.vi" Type="VI" URL="../CRC_Key_Map.vi"/>
 	<Item Name="Init Map to Outgoing Frame Configs.vi" Type="VI" URL="../Init Map to Outgoing Frame Configs.vi"/>
+	<Item Name="Parse CRC_MAP File.vi" Type="VI" URL="../Parse CRC_MAP File.vi"/>
 	<Item Name="Re-order Protection Configs.vi" Type="VI" URL="../Re-order Protection Configs.vi"/>
 </Library>
