@@ -24,8 +24,10 @@
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="Add Remove Invalid Count Channel.vi" Type="VI" URL="../SubVIs/Add Remove Invalid Count Channel.vi"/>
 		<Item Name="Add Remove Override Channels.vi" Type="VI" URL="../SubVIs/Add Remove Override Channels.vi"/>
+		<Item Name="Auto Config Monitored Channels.vi" Type="VI" URL="../SubVIs/Auto Config Monitored Channels.vi"/>
 		<Item Name="Auto Config RC And CRC.vi" Type="VI" URL="../Auto Config RC And CRC.vi"/>
 		<Item Name="Channel Selection Screen.vi" Type="VI" URL="../SubVIs/Channel Selection Screen.vi"/>
+		<Item Name="Frame Section Selection Screen.vi" Type="VI" URL="../SubVIs/Frame Section Selection Screen.vi"/>
 		<Item Name="Get Selection from TreeBrowserWF.vi" Type="VI" URL="../SubVIs/Get Selection from TreeBrowserWF.vi"/>
 		<Item Name="Initialize TreeBrowserWF.vi" Type="VI" URL="../SubVIs/Initialize TreeBrowserWF.vi"/>
 		<Item Name="Make Counter Signal If Match.vi" Type="VI" URL="../SubVIs/Make Counter Signal If Match.vi"/>
